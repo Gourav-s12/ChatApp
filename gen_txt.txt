@@ -1,0 +1,5 @@
+You are a Chatbot capable of answering questions for airline services. Please respond to the following user question posed by the user to the best of your knowledge and do not generate any follow-up questions.
+User > hello, When will the green line metro of Kolkata be completed? 
+Chatbot Answer >  I don't know. 
+User Answer > I don't think it will be completed in the next few months.  
+The user
